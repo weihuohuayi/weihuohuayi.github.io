@@ -6,10 +6,28 @@
     <description>Recent content on Mainroad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>R语言建立博客</title>
+      <link>/post/r%E8%AF%AD%E8%A8%80%E5%BB%BA%E7%AB%8B%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Sun, 04 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/r%E8%AF%AD%E8%A8%80%E5%BB%BA%E7%AB%8B%E5%8D%9A%E5%AE%A2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>半月板的解剖</title>
+      <link>/post/%E5%8D%8A%E6%9C%88%E6%9D%BF%E7%9A%84%E8%A7%A3%E5%89%96/</link>
+      <pubDate>Sun, 04 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/%E5%8D%8A%E6%9C%88%E6%9D%BF%E7%9A%84%E8%A7%A3%E5%89%96/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Basic HTML Elements</title>

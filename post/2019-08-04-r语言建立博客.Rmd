@@ -1,0 +1,11 @@
+---
+title: R语言建立博客
+author: 胡哥小腱匠
+date: '2019-08-04'
+slug: r语言建立博客
+categories:
+  - R
+tags: []
+description: ''
+thumbnail: ''
+---

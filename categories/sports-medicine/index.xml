@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sports Medicine on Mainroad</title>
+    <link>/categories/sports-medicine/</link>
+    <description>Recent content in Sports Medicine on Mainroad</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/sports-medicine/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>半月板的解剖</title>
+      <link>/post/%E5%8D%8A%E6%9C%88%E6%9D%BF%E7%9A%84%E8%A7%A3%E5%89%96/</link>
+      <pubDate>Sun, 04 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/%E5%8D%8A%E6%9C%88%E6%9D%BF%E7%9A%84%E8%A7%A3%E5%89%96/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
