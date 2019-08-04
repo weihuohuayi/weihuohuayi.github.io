@@ -1,13 +1,12 @@
 ---
-title: R语言建立博客
-author: 胡哥小腱匠
+title: "R闁荤姴娴傞崣鈧柍璇茬墕椤曟瑩鎼归崷顓炵秳闂佸憡顨嗛懝楣冾敇<b9>"
+author: "闂佸吋鏋奸埀顒冩珪閹叉悂鎮樿箛鎾剁闁告瑱绻濆畷<a0><a0>"
 date: '2019-08-04'
-slug: r语言建立博客
-categories:
-  - R
-tags: []
 description: ''
+slug: r闁荤姴娴傞崣鈧柍璇茬墕椤曟瑩鎼归崷顓炵秳闂佸憡顨嗛懝楣冾敇<b9>
+tags: []
 thumbnail: ''
+categories: R
 ---
 # R语言在Github上搭建博客
 ## 第1步，Rstudio搭建平台
@@ -15,3 +14,5 @@ thumbnail: ''
 ## 第3步，本地blogdown建站
 ## 第4步，提供给github建站
 ## 第5步，创建博文
+
+uuu
